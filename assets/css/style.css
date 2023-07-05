@@ -107,6 +107,7 @@ data,
 span,
 input,
 button,
+select,
 ion-icon,
 textarea {
   display: block;

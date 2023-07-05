@@ -110,10 +110,3 @@ Ionicon
 --transition-2: 500ms ease;
 --transition-3: 1000ms ease;
 ```
-
-
-
-
-
-
-
