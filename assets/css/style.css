@@ -275,7 +275,7 @@ body.nav-active {
   100% {
     background-position: 0%;
   }
-  
+
 }
 
 
@@ -286,7 +286,9 @@ body.nav-active {
   #TOPBAR
 \*-----------------------------------*/
 
-
+.topbar {
+  display: none;
+}
 
 
 
